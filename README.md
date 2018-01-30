@@ -1,0 +1,2 @@
+# gc2test
+configfiles
